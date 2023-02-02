@@ -1,17 +1,23 @@
-.btn, .btn-orange {
+.btn {
   width: 200px;
   padding: 10px 0;
   background: none;
   border: 0;
   border-radius: 10px;
+  display: block;
+  margin: 10px;
 }
-
 .btn-orange {
   background: orange;
+  color: #fff;
 }
-
-p {
-  color: orange;
+.btn-purple {
+  background: purple;
+  color: #fff;
+}
+.btn-blue {
+  background: blue;
+  color: #000;
 }
 
 /*# sourceMappingURL=style.css.map */
