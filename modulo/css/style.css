@@ -11,13 +11,25 @@
   background: orange;
   color: #fff;
 }
+.btn-orange:hover {
+  background: greyscale(orange);
+  cursor: pointer;
+}
 .btn-purple {
   background: purple;
   color: #fff;
 }
+.btn-purple:hover {
+  background: greyscale(purple);
+  cursor: pointer;
+}
 .btn-blue {
   background: blue;
   color: #000;
+}
+.btn-blue:hover {
+  background: greyscale(blue);
+  cursor: pointer;
 }
 
 /*# sourceMappingURL=style.css.map */
